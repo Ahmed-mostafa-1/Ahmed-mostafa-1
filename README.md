@@ -120,7 +120,7 @@ status: ONLINE
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqNzN4MnF5cG9zZTNvNWF1a2M3YjF2cnR0M2Y4MXBpY2s4N2x5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00FF&height=120&section=header&text=⚡%20WELCOME%20TO%20MY%20PROFILE%20⚡&fontSize=28&fontColor=ffffff&animation=blinking"/>
 
 </div>
 
