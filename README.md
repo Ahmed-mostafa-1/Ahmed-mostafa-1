@@ -62,11 +62,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-mostafa-1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mostafa-1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-mostafa-1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mostafa-1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
 
 ## 🔥 Activity Graph
 
