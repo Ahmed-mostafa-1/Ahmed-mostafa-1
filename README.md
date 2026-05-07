@@ -1,33 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D4,100:0F6CBD&height=220&section=header&text=Ahmed%20Mostafa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20PHP%20%26%20ASP.NET%20Core&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Ahmed%20Mostafa&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20PHP%20%26%20ASP.NET%20Core&descAlignY=58"/>
 
 </div>
 
-<h3 align="center">
-Building scalable backend systems and modern web APIs
-</h3>
+<h1 align="center">⚡ FUTURISTIC NEON PROFILE ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&pause=1200&color=0078D4&center=true&vCenter=true&width=800&lines=Backend+Developer;PHP+%26+ASP.NET+Core+Developer;REST+API+Developer;SQL+Server+%26+MySQL;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Backend+Developer;PHP+%26+ASP.NET+Core+Developer;Building+Scalable+Backend+Systems;REST+API+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 SYSTEM.INFO
 
-```txt
-Name        : Ahmed Mostafa
-Role        : Backend Developer
-Speciality  : PHP & ASP.NET Core
-Database    : SQL Server / MySQL
-Focus       : APIs, System Design, Backend Architecture
-Goal        : Software Engineer at Google
+```yaml
+name: Ahmed Mostafa
+role: Backend Developer
+
+specialization:
+  - PHP
+  - ASP.NET Core
+  - REST APIs
+  - SQL Server
+  - MySQL
+
+currently_learning:
+  - System Design
+  - Backend Architecture
+  - Clean Code
+
+future_goal: Software Engineer at Google
+status: ONLINE
 ```
 
 ---
 
-# 🛠 Technologies & Tools
+# ⚙️ TECH STACK
 
 <div align="center">
 
@@ -37,73 +46,73 @@ Goal        : Software Engineer at Google
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-mostafa-1&show_icons=true&theme=default&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-mostafa-1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mostafa-1&layout=compact&theme=default&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mostafa-1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-mostafa-1&bg_color=ffffff&color=0078D4&line=0078D4&point=0F6CBD&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-mostafa-1&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-mostafa-1&theme=flat&no-frame=true&margin-w=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-mostafa-1&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 NEON SNAKE
 
 <div align="center">
 
-<img src="https://github.com/Ahmed-mostafa-1/Ahmed-mostafa-1/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Ahmed-mostafa-1/Ahmed-mostafa-1/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-mostafa-386620286/">
-<img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:ahmedmostafa26409@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D83B01?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ahmed-mostafa-1">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Profile Views
+# 👁 VISITOR COUNT
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ahmed-mostafa-1&label=Profile+Views&color=0078D4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmed-mostafa-1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -111,6 +120,14 @@ Goal        : Software Engineer at Google
 
 <div align="center">
 
-### Microsoft Style • Clean • Professional • Minimal
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqNzN4MnF5cG9zZTNvNWF1a2M3YjF2cnR0M2Y4MXBpY2s4N2x5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ INITIALIZING FUTURE SYSTEMS...
 
 </div>
