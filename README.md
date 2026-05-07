@@ -1,68 +1,58 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:0f0c29,100:00F5FF&text=Ahmed%20Mostafa&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20PHP%20%26%20ASP.NET%20Core&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:00F5FF&text=Ahmed%20Mostafa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20PHP%20%26%20ASP.NET%20Core&descAlignY=58"/>
 
 </div>
 
-<h1 align="center">⚡ NEON BACKEND ENGINEER ⚡</h1>
+<h2 align="center">🚀 Backend Developer Building Scalable Systems</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;PHP+%26+ASP.NET+Core+Specialist;Building+Scalable+APIs;Database+Architecture+Enthusiast;Clean+Code+Advocate;Always+Evolving+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Backend+Developer;PHP+%26+ASP.NET+Core+Developer;REST+API+Builder;SQL+Server+%26+MySQL;Clean+Architecture+%26+SOLID;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🧠 SYSTEM STATUS
+# 👨‍💻 ABOUT ME
 
 ```txt
-STATUS        : ONLINE ⚡
-ROLE          : Backend Developer
-STACK         : PHP / ASP.NET Core
-DATABASE      : MySQL / SQL Server
-FOCUS         : APIs • Systems • Architecture
-GOAL          : Software Engineer at Google
-MODE          : BUILDING...
+Name        : Ahmed Mostafa
+Role        : Backend Developer
+Stack       : PHP • ASP.NET Core • C#
+Database    : SQL Server • MySQL
+Focus       : APIs • Backend Systems • Architecture
+Skills      : Clean Code • REST APIs • Authentication • JWT
+Goal        : Software Engineer at Google
 ```
 
 ---
 
-# ⚙️ TECH ARSENAL
+# ⚙️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,dotnet,cs,mysql,git,github,visualstudio,vscode,postman,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,php,mysql,git,github,visualstudio,vscode,postman,html,css,bootstrap" />
 
 </div>
 
 ---
 
-# 📊 LIVE GITHUB STATS
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-mostafa-1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-mostafa-1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mostafa-1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mostafa-1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 ACTIVITY GRAPH (ANIMATED)
+# 🔥 ACTIVITY GRAPH
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-mostafa-1&bg_color=0d1117&color=00F5FF&line=FF00FF&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 SNAKE ANIMATION
-
-<div align="center">
-
-<img src="https://github.com/Ahmed-mostafa-1/Ahmed-mostafa-1/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-mostafa-1&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -78,16 +68,16 @@ MODE          : BUILDING...
 
 ---
 
-# 🌐 CONNECT
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-mostafa-386620286/">
-<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
 <a href="mailto:ahmedmostafa26409@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-mostafa-386620286/">
+<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Ahmed-mostafa-1">
@@ -98,11 +88,11 @@ MODE          : BUILDING...
 
 ---
 
-# 👁 VISITORS
+# 👁 PROFILE VIEWS
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ahmed-mostafa-1&label=VISITS&color=00F5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmed-mostafa-1&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 
 </div>
 
@@ -110,6 +100,6 @@ MODE          : BUILDING...
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=800&color=FF00FF&center=true&vCenter=true&width=700&lines=CODE.+BUILD.+BREAK.+LEARN.+REPEAT." />
+### ⚡ Code • Build • Learn • Repeat
 
 </div>
